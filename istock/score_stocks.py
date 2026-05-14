@@ -22,7 +22,7 @@ from pathlib import Path
 from typing import Any
 
 
-DEFAULT_INPUT = Path(r"D:\Work\Easy_link\section.json")
+DEFAULT_INPUT = Path(r"D:\Work\Easy_link\istock\input_data\section.json")
 DEFAULT_OUTPUT_DIR = Path(r"D:\Work\Easy_link\istock\output")
 DEFAULT_THRESHOLD = 70
 PROJECT_DIR = Path(__file__).resolve().parent
